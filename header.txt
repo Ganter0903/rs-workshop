@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Change from <first>
 Changes
 Change for master: new changes!!
